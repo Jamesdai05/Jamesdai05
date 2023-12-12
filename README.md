@@ -13,9 +13,6 @@
   Hi, I am Guilong Dai(James Dai), an inspiring software engineer 🧑‍💻 with 9 years of manufacturing experience,eager to translate expertise into the digital landscape. 
   Passionate about leveraging technology to address real-world problems.
 </p>
-<div class="header-2" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZycXhsaG1vbzRneDhtdm1raTI1em45YnVrNXc3b3hudXlzbzN4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"/>
-</div>
 
 # Info about me
 <p>🌴 I am currently working on my portfolios by using React & Typescripts </p>
