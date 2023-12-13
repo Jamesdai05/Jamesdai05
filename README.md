@@ -14,7 +14,7 @@
   Passionate about leveraging technology to address real-world problems.
 </p>
 
-# Info about me
+# Info About Me
 <p>🌴 I am currently working on my portfolios by using React & Typescripts </p>
 <p>🪴 I am learning [Javascript,Postgres,Mongodb,React,Bootstrap, CSS,Typescript,Nodejs,Express,HTML]</p>
 <p>🤔 I am looking for career advice</p>
