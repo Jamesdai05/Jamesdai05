@@ -10,7 +10,7 @@
 
 # 👋 Welcome to my page
 <p>
-  Hi, I am Guilong Dai(can called me James instead), an inspiring software engineer 🧑‍💻 with 9 years of manufacturing experience,eager to translate expertise into the digital landscape. 
+  Hi, I am Guilong Dai(can call me James instead), an inspiring software engineer 🧑‍💻 with 9 years of manufacturing experience,eager to translate expertise into the digital landscape. 
   Passionate about leveraging technology to address real-world problems.
 </p>
 
