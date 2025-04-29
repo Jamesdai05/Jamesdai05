@@ -11,7 +11,7 @@
 # 👋 Welcome to my page
 <p>
   Hi, I am Guilong Dai(may call me James instead), an inspiring software engineer 🧑‍💻 with several years of manufacturing experience,eager to translate expertise into the digital landscape. 
-  Passionate about leveraging technology to address real-world problems.
+  Passionate about leveraging technology to address real-world problems and learning the new technologies.
 </p>
 
 # Info About Me
