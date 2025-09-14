@@ -16,7 +16,8 @@
 
 # Info About Me
 <p>🌴 I am currently working on my portfolios by using React & Typescripts </p>
-<p>🪴 I am learning [Javascript,Postgres,Mongodb,React,Bootstrap, CSS,Typescript,Nodejs,Express,HTML]</p>
+<p>🪴 I am learning [Javascript,Postgres,Mongodb,React,Bootstrap, CSS,Typescript,Nodejs,Express And TanStack query]</p>
+<p>😊 Passionate about web development and data analysis</p>
 <p>🤔 I am looking for career advice</p>
 <p>☁️ Happy to explore the problems related to coding, and ask me for the resources during the coding learning</p>
 <p>🏓 I like playing basketball, jogging and travelling.</p>
