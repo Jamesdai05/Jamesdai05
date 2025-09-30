@@ -10,8 +10,10 @@
 
 # 👋 Welcome to my page
 <p>
-  Hi, I am Guilong Dai(may call me James instead), an inspiring software engineer 🧑‍💻 with several years of manufacturing experience,eager to translate expertise into the digital landscape. 
-  Passionate about leveraging technology to address real-world problems and learning the new technologies.
+  I’m a junior software developer passionate about building scalable, user-focused web applications using React, Vue.js, Node.js, and MySQL. 
+  I have hands-on experience creating responsive UIs, data dashboards, RESTful APIs, and IoT integrations, and I’m comfortable working with Linux and Git. 
+  Currently, I’m expanding my skills in TypeScript and backend system design to grow as a fullstack engineer. 
+  I love turning ideas into practical, efficient solutions and continuously learning new technologies.
 </p>
 
 # Info About Me
