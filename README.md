@@ -24,7 +24,7 @@
 <p>☁️ Happy to explore the problems related to coding, and ask me for the resources during the coding learning</p>
 <p>🏓 I like playing basketball, jogging and travelling.</p>
 
-📫 How to reach me:[Click Here](https://www.google.com)
+📫 How to reach me:[Click Here](https://www.linkedin.com/in/dai-guilong/)
 
 # :hammer_and_wrench: Skills & Tool-kits
 <p>📖 I have been learning and exploring these following frameworks, libraries, and programming languages.</p>
